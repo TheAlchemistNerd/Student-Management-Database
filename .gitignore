@@ -1,0 +1,113 @@
+## Ignore Visual Studio temporary files, build results, and
+## user-specific files
+All_CS_Files_Content.txt
+.vs/
+.vs
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+*.log
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# Rider files
+.idea/
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# DotCover
+*.dotCover
+
+# NUnit
+TestResult.xml
+nunit-*.xml
+
+# MSTest
+TestResults/
+*.trx
+
+# Visual Studio profiler
+*.vsp
+*.vspx
+*.sap
+
+# Coverage results
+coverage/
+*.coverage
+*.coveragexml
+
+# Other testing/debugging
+*.cache
+*.pdb
+*.mdb
+
+# Database and data files
+*.db
+*.sqlite
+*.mdf
+*.ldf
+
+# Entity Framework
+Migrations/
+
+# Local secrets
+secrets.json
+
+# Ignore files from the dump
+*.dump
+*.bak
+*.sql
+
+# JSON/CSV/XML file-based repos (if generated dynamically)
+*.json
+*.csv
+*.xml
+
+# Publish output
+publish/
+*.publish.xml
+
+# Rider & JetBrains
+.idea/
+*.sln.iml
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# Dotnet CLI
+project.assets.json
+project.nuget.cache
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Others
+*.tmp
+*.tmp.*
+*.swp
